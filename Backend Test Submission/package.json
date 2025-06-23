@@ -1,21 +1,16 @@
 {
   "name": "backend-test-submission",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "description": "",
   "dependencies": {
     "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "moment": "^2.30.1",
-    "mongoose": "^8.16.0",
-    "morgan": "^1.10.0",
-    "nanoid": "^5.1.5"
+    "nanoid": "^4.0.2"
   }
 }
