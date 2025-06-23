@@ -13,8 +13,8 @@
 ## Features
 
 - Create short URL from long URL  
-- Set optional expiry time (in seconds)  
-- View analytics (click count + timestamps)  
+- Set optional expiry time 
+- View analytics
 - Middleware for request logging  
 - Uses `.env` for environment configuration
 
@@ -25,8 +25,6 @@
 - Node.js  
 - Express.js  
 - Nanoid (for shortcode generation)  
-- Moment.js (for time handling)  
-- Morgan (request logging)  
 - dotenv (environment variables)
 
 ---
