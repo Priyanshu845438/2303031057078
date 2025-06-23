@@ -12,7 +12,7 @@ Body:
     "accessCode": "TRzgWM"<br>
 }
 
-# Authantication
+# Authentication
 ---
 ### Post http://20.244.56.144/evaluation-service/auth
 Body:
@@ -38,12 +38,12 @@ Body:
 
 
 ---
-# After hitting the apis
+# After hitting the APIs
 ---
 
-1. Create a folder inside reporsitory(2303031057078).
+1. Create a folder inside reporsitory(2303031057078/ Logging Middleware).
 2. Use npm init -y
 3. Create a logger.js file
-4. Hit APIs using middlewares to give response in console as logs
-5. Create one more file and test.js for routing
-6. run test.js file.
+4. Create one more file and test.js for routing
+5. Hit APIs using middlewares to give a response in the console as logs
+7. Run the test.js file.
