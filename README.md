@@ -2,7 +2,8 @@
 
 - **Name**: Priyanshu Raj  
 - **Roll No**: 2303031057078  
-- **University**: Parul University  
+- **University**: Parul University
+- **Stack**: Backend
 - **Submission**: Logging Middleware and Backend Test Submission
 
 ---
