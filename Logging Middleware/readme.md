@@ -41,7 +41,7 @@ Body:
 # After hitting the apis
 ---
 
-1. Create a folder inside reporsitory(2303031057078).
+1. Create a folder inside reporsitory(2303031057078/ Logging Middleware).
 2. Use npm init -y
 3. Create a logger.js file
 4. Hit APIs using middlewares to give response in console as logs
